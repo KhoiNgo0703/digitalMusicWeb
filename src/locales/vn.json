@@ -1,0 +1,27 @@
+{
+  "home": {
+    "listen": "KoyF- Chữa lành tâm hồn với âm nhạc",
+    "intro": "Top 1 website năm 2023 theo tờ NewYork Times",
+    "song": "Bài hát"
+  },
+  "song": {
+    "comment_count": "0 bình luận| 1 bình luận | {count} bình luận"
+  },
+  "register": {
+    "accept": "Tôi chấp nhận {0}",
+    "tos": "Term of Service"
+  },
+  "header": {
+    "about": "Giới thiệu",
+    "manage": "Quản lý",
+    "logout": "Đăng xuất",
+    "login": "Đăng nhập"
+  },
+  "manage": {
+    "mysongs": "Bài hát của tôi"
+  },
+  "upload": {
+    "upload": "Tải lên",
+    "dropfile": "Thả file nhạc vào đây"
+  }
+}

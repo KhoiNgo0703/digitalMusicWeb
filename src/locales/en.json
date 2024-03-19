@@ -1,0 +1,27 @@
+{
+  "home": {
+    "listen": "KoyF- Heal your soul with music",
+    "intro": "Top 1 music website in 2023 accoridng to The New York Times",
+    "song": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments| 1 comment | {count} comments"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Term of Service"
+  },
+  "header": {
+    "about": "About",
+    "manage": "Manage",
+    "logout": "Logout",
+    "login": "Login / Register"
+  },
+  "manage": {
+    "mysongs": "My Songs"
+  },
+  "upload": {
+    "upload": "Upload",
+    "dropfile": "Drop your files here"
+  }
+}
